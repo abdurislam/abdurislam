@@ -1,11 +1,10 @@
-<h1 align="center">Hi there, I'm Abdur Islam 👋</h1>
-
-<p align="center">
-  <strong>Software Engineering Intern @ Schweitzer Engineering Laboratories | CS @ Washington State University</strong>
+<p align="center>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=A60F2D&text=Welcome%20To%20My%20Github&reversal=true&fontColor=EEEEEE&fontSize=70" /> 
 </p>
 
 
----
+<h1 align="center">Hi there, I'm Abdur Islam 👋</h1>
+
 
 ### 👨‍💻 About Me
 
