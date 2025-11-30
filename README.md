@@ -1,7 +1,6 @@
-<p align="center>
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=A60F2D&text=Welcome%20To%20My%20Github&reversal=true&fontColor=EEEEEE&fontSize=70" /> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D2235&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=38&fontAlign=50&fontColor=f3f3f3" />
 </p>
-
 
 <h1 align="center">Hi there, I'm Abdur Islam 👋</h1>
 
