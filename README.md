@@ -2,19 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9D2235&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=38&fontAlign=50&fontColor=f3f3f3" />
 </p>
 
-<h1 align="center">Hi there, I'm Abdur Islam 👋</h1>
+<h1 align="center">Hi there, I'm Abdur Islam</h1>
 
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 Studying **Computer Science** at Washington State University
-- 💼 **Software Engineering Intern** at Schweitzer Engineering Laboratories
-- 🌱 Currently building full-stack applications with modern web technologies
-- 🔭 Interested in **Machine Learning**, **Web Development**, and **Cloud Technologies**
+-  Studying **Computer Science** at Washington State University
+-  **Software Engineering Intern** at Schweitzer Engineering Laboratories
+-  Currently building full-stack applications with modern web technologies
+-  Interested in **Machine Learning**, **Web Development**, and **Cloud Technologies**
 
 ---
 
-### 🛠️ Languages & Technologies
+### Languages & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 🚀 Frameworks & Libraries
+### Frameworks & Libraries
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
-### ☁️ Cloud & Tools
+### Cloud & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
